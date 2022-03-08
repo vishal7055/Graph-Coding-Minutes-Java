@@ -1,5 +1,7 @@
 /*
 GFG Format
+TC : O(V + E) 
+Also known as Kahn's algo
 */
 import java.util.*;
 import java.io.*;
